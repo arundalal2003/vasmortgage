@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/vasmortgage/static/js/main.110aff6e.chunk.js",
+    "main.js.map": "/vasmortgage/static/js/main.110aff6e.chunk.js.map",
+    "runtime-main.js": "/vasmortgage/static/js/runtime-main.ce82bac1.js",
+    "runtime-main.js.map": "/vasmortgage/static/js/runtime-main.ce82bac1.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/vasmortgage/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.98219825.chunk.js": "/vasmortgage/static/js/2.98219825.chunk.js",
+    "static/js/2.98219825.chunk.js.map": "/vasmortgage/static/js/2.98219825.chunk.js.map",
+    "index.html": "/vasmortgage/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/vasmortgage/static/css/2.ef9168ec.chunk.css.map",
+    "static/js/2.98219825.chunk.js.LICENSE.txt": "/vasmortgage/static/js/2.98219825.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce82bac1.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.98219825.chunk.js",
+    "static/js/main.110aff6e.chunk.js"
+  ]
+}
