@@ -2,8 +2,12 @@ import React from 'react';
 
 
 const About =() => {
-    return <><br/><br/><br/><br/><br/>
-    <div className="container mt-5">
+
+    const topMargin = {
+        marginTop : "150px"
+    }
+    return <>
+    <div className="container " style ={topMargin}>
    
    
     <div className="row ">
